@@ -6,7 +6,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-        <title>MANTENIMIENTO DE USUARIOS</title>
+        <title>MANTENIMIENTO DE USUARIOS xxxxxxxxxxx</title>
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <!--<link href="css/main.css" type="text/css" rel="stylesheet"/>
         <link href="css/form.css" type="text/css" rel="stylesheet"/>-->

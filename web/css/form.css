@@ -1,0 +1,41 @@
+form.formal {
+    margin: 12px;
+}
+
+form.formal label, form.formal input, 
+form.formal select, form.formal textarea{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    color: #444;
+}
+
+
+
+form.formal legend {
+    padding: 6px 15px;
+    background: aquamarine;
+ 
+}
+
+form.formal legend{
+    font-weight: bold;
+}
+
+
+
+
+form.formal .tabla {
+    margin: auto;
+    margin-top: 20px;
+    border-spacing: 8px;
+    background-color: appworkspace;
+    
+}
+
+
+
+form.formal td, form.formal th {
+    vertical-align: top;
+}
+
+

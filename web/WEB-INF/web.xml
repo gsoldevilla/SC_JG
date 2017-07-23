@@ -4,9 +4,17 @@
         <servlet-name>UserController</servlet-name>
         <servlet-class>com.controller.UserController</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>ProductoController</servlet-name>
+        <servlet-class>com.controller.ProductoController</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>UserController</servlet-name>
         <url-pattern>/UserController</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ProductoController</servlet-name>
+        <url-pattern>/ProductoController</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
